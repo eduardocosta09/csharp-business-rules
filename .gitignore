@@ -1,0 +1,35 @@
+# Arquivos gerados pelo .NET
+**/bin/
+**/obj/
+artifacts/
+TestResults/
+
+# Configurações locais de IDEs
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Temporários e logs
+*.log
+*.tmp
+*.temp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# Configurações locais e credenciais
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key
+*.pem
+.aws/
+.codex/
+.agents/
